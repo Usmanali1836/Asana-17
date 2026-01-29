@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
     <!--This is the inherited form view of the model project task type-->
-    <record id="task_type_edit" model="ir.ui.view">
+    <record id="view_project_task_type_form_inherit_asana_connector" model="ir.ui.view">
         <field name="name">
-            project.task.type.view.form.inherit.asana.odoo.connector
+            project.task.type.view.form.inherit.asana.connector
         </field>
         <field name="model">project.task.type</field>
         <field name="inherit_id" ref="project.task_type_edit"/>
@@ -13,7 +13,7 @@
                     <page string="Asana">
                         <group>
                             <group>
-                                <field name="asana_gid"/>
+                                <field name="asana_ref"/>
                             </group>
                         </group>
                     </page>

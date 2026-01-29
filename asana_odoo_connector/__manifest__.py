@@ -9,9 +9,9 @@
     'description': """With this module, user can connect the projects, tasks and
     the customers in the odoo to asana, which means the projects, tasks and 
     customers in the odoo can be seen in the asana also vice versa""",
-    'author': 'lahore analytica',
+    'author': 'Lahore Analytica',
     'company': 'Lahore Analytica',
-    'maintainer': 'Lahore Analytica Techno Solutions',
+    'maintainer': 'Lahore Analytica',
     'website': "https://www.lahoreanalytica.com/",
     'depends': ['project'],
     'data': [

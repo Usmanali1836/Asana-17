@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
     <!--This is the inherited form view of the project project  -->
-    <record id="edit_project" model="ir.ui.view">
+    <record id="view_project_project_form_inherit_asana_connector" model="ir.ui.view">
         <field name="name">
-            project.project.view.form.inherit.asana.odoo.connector
+            project.project.view.form.inherit.asana.connector
         </field>
         <field name="model">project.project</field>
         <field name="inherit_id" ref="project.edit_project"/>
@@ -12,7 +12,7 @@
                 <page string="Asana">
                     <group>
                         <group>
-                            <field name="asana_gid"/>
+                            <field name="asana_ref"/>
                         </group>
                     </group>
                 </page>

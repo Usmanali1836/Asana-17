@@ -12,7 +12,7 @@ Configuration
 
 Company
 _______
-*  `Cybrosys Techno Solutions <https://cybrosys.com/>`__
+*  `Lahore Analytica <https://www.lahoreanalytica.com/>`__
 
 License
 =======
@@ -21,28 +21,16 @@ Affero General Public License v3.0 (AGPL v3)
 
 Credits
 _______
-Developer : (V16) Arjun S,
-            (V17) Safa Faheem PE,
-Contact: odoo@cybrosys.com
+Developer : Shah Hassan,
+Contact: Info@lahoreanalytica.com
 
-Contacts
-________
-* Mail Contact : odoo@cybrosys.com
-* Website : http://www.cybrosys.com
 
 Bug Tracker
 ___________
 Bugs are tracked on GitHub Issues. In case of trouble, please check there if your issue has already been reported.
 
-Maintainer
-__________
-.. image:: https://cybrosys.com/images/logo.png
-   :target: https://cybrosys.com
 
-This module is maintained by Cybrosys Technologies.
+This module is maintained by Lahore Analytica.
 
-For support and more information, please visit `Our Website <https://cybrosys.com/>`__
+For support and more information, please visit `Our Website <https://www.lahoreanalytica.com/>`__
 
-Further information
-___________________
-HTML Description: `<static/description/index.html>`__

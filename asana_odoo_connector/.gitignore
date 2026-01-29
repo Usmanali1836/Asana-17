@@ -1,0 +1,32 @@
+*.pyc
+*.__pycache__
+*/__pycache__
+/__pycache__
+__pycache__
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+.env/
+env/
+*.env
+
+# Odoo log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files (optional)
+.idea/
+.vscode/
+*.swp
+*.swo
